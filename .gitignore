@@ -1,0 +1,7 @@
+data
+Debug
+include
+lib
+*.vcxproj
+*.vcxproj.*
+SDL2.dll
